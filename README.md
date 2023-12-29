@@ -17,6 +17,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Overview
 
+A results summary component project that will be designed through desktop view and mobile view.
+
 ### The challenge
 
 Users should be able to:
@@ -33,10 +35,15 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Click for [Solution](https://github.com/tmy-ide/Results-Summary-Component.git)
+- Click for [Preview](https://tmy-ide.github.io/Results-Summary-Component/)
 
 ## My process
+- Analyze the references and brainstorm
+- Install certain assets 
+- Write markup first
+- Next, style with CSS
+- Touch up and remove unnecessary codes
 
 ### Built with
 
@@ -46,14 +53,14 @@ Users should be able to:
 
 ### What I learned
 
-- I learned the difference between nth-of-type and nth-child and how they're used. I had issues with nth-child but stepping back and taking the time to learn how to use it helped me understand the problem I was facing.
+- I learned the difference between nth-of-type and nth-child. I had issues with nth-child but stepping back and taking the time to learn how to use it helped me understand the problem I was facing.
 - I installed fonts for the first time. It was easy to do but 
-a helpful thing to learn about.
-- This is the first project which I had to create a component through a mobile viewport. So I had to learn the proper css rule to acheive that.
+a useful thing to learn about.
+- This is the first project that I had to create with mobile proportions. It felt a tad closer to what a real life project may entail.
 
 ### Continued development
 
- Although I am developing my flexbox skills, I believe it will become necessary for me to learn how to use CSS grid soon in order to be more efficient in alignment.
+ Although I am developing my flexbox skills, I believe it will become necessary for me to learn how to use CSS grid and position elements soon in order to be more efficient in aligning elements.
 
 ### Useful resources
 
